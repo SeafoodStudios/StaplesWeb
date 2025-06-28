@@ -1,5 +1,6 @@
 # Staples Web Demo
 [![Launch Staples in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeafoodStudios/StaplesWeb/HEAD)
+
 Staples Web is the demo for the Staples esoteric language. To use it, follow these instructions:
 1. Click the badge above this text (the "launch Staples badge".
 2. Wait for it to load. It may take a while.
